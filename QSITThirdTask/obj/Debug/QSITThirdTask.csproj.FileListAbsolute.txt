@@ -1,0 +1,7 @@
+C:\Users\EL MAGIC\source\repos\QSITThirdTask\QSITThirdTask\bin\Debug\QSITThirdTask.dll
+C:\Users\EL MAGIC\source\repos\QSITThirdTask\QSITThirdTask\bin\Debug\QSITThirdTask.pdb
+C:\Users\EL MAGIC\source\repos\QSITThirdTask\QSITThirdTask\obj\Debug\QSITThirdTask.csproj.AssemblyReference.cache
+C:\Users\EL MAGIC\source\repos\QSITThirdTask\QSITThirdTask\obj\Debug\QSITThirdTask.csproj.CoreCompileInputs.cache
+C:\Users\EL MAGIC\source\repos\QSITThirdTask\QSITThirdTask\obj\Debug\QSITThirdTask.dll
+C:\Users\EL MAGIC\source\repos\QSITThirdTask\QSITThirdTask\obj\Debug\QSITThirdTask.pdb
+C:\Users\EL MAGIC\source\repos\QSITThirdTask\QSITThirdTask\bin\Debug\app.addin

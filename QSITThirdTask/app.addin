@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>QSITThirdTask</Name>
+		<Assembly>QSITThirdTask.dll</Assembly>
+		<FullClassName>QSITThirdTask.QSITExternalApplication</FullClassName>
+		<VendorId>QSIT</VendorId>
+		<VendorDescription>Delete the picked element or you can select all windows and delete them</VendorDescription>
+		<AddInId>
+			FE980248-7CE9-4F18-B03C-C5F40FA92BEC
+		</AddInId>
+	</AddIn>
+</RevitAddIns>
