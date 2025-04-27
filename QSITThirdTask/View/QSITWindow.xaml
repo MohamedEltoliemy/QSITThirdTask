@@ -15,7 +15,7 @@
         MouseLeftButtonDown="Border_MouseLeftButtonDown">
 
     <Window.Resources>
-        <!-- نفس الـ Styles من النافذة الأولى -->
+        
         <Style TargetType="Button">
             <Setter Property="Padding" Value="12,6"/>
             <Setter Property="MinWidth" Value="70"/>

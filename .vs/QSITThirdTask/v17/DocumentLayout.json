@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\EL MAGIC\\source\\repos\\QSITThirdTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4FD2BF8-0C30-426C-BB35-F080A44B7E34}|QSITThirdTask\\QSITThirdTask.csproj|c:\\users\\el magic\\source\\repos\\qsitthirdtask\\qsitthirdtask\\view\\qsitwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D4FD2BF8-0C30-426C-BB35-F080A44B7E34}|QSITThirdTask\\QSITThirdTask.csproj|solutionrelative:qsitthirdtask\\view\\qsitwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D4FD2BF8-0C30-426C-BB35-F080A44B7E34}|QSITThirdTask\\QSITThirdTask.csproj|c:\\users\\el magic\\source\\repos\\qsitthirdtask\\qsitthirdtask\\qsitexternalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FD2BF8-0C30-426C-BB35-F080A44B7E34}|QSITThirdTask\\QSITThirdTask.csproj|solutionrelative:qsitthirdtask\\qsitexternalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4FD2BF8-0C30-426C-BB35-F080A44B7E34}|QSITThirdTask\\QSITThirdTask.csproj|c:\\users\\el magic\\source\\repos\\qsitthirdtask\\qsitthirdtask\\view\\qsitwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4FD2BF8-0C30-426C-BB35-F080A44B7E34}|QSITThirdTask\\QSITThirdTask.csproj|solutionrelative:qsitthirdtask\\view\\qsitwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4FD2BF8-0C30-426C-BB35-F080A44B7E34}|QSITThirdTask\\QSITThirdTask.csproj|c:\\users\\el magic\\source\\repos\\qsitthirdtask\\qsitthirdtask\\viewmodel\\qsitviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FD2BF8-0C30-426C-BB35-F080A44B7E34}|QSITThirdTask\\QSITThirdTask.csproj|solutionrelative:qsitthirdtask\\viewmodel\\qsitviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FD2BF8-0C30-426C-BB35-F080A44B7E34}|QSITThirdTask\\QSITThirdTask.csproj|c:\\users\\el magic\\source\\repos\\qsitthirdtask\\qsitthirdtask\\categoryselectionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FD2BF8-0C30-426C-BB35-F080A44B7E34}|QSITThirdTask\\QSITThirdTask.csproj|solutionrelative:qsitthirdtask\\categoryselectionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FD2BF8-0C30-426C-BB35-F080A44B7E34}|QSITThirdTask\\QSITThirdTask.csproj|c:\\users\\el magic\\source\\repos\\qsitthirdtask\\qsitthirdtask\\view\\qsitwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D4FD2BF8-0C30-426C-BB35-F080A44B7E34}|QSITThirdTask\\QSITThirdTask.csproj|solutionrelative:qsitthirdtask\\view\\qsitwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,33 +29,59 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QSITWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\EL MAGIC\\source\\repos\\QSITThirdTask\\QSITThirdTask\\View\\QSITWindow.xaml.cs",
-              "RelativeDocumentMoniker": "QSITThirdTask\\View\\QSITWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\EL MAGIC\\source\\repos\\QSITThirdTask\\QSITThirdTask\\View\\QSITWindow.xaml.cs",
-              "RelativeToolTip": "QSITThirdTask\\View\\QSITWindow.xaml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T01:44:35.806Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "QSITExternalCommand.cs",
+              "DocumentMoniker": "C:\\Users\\EL MAGIC\\source\\repos\\QSITThirdTask\\QSITThirdTask\\QSITExternalCommand.cs",
+              "RelativeDocumentMoniker": "QSITThirdTask\\QSITExternalCommand.cs",
+              "ToolTip": "C:\\Users\\EL MAGIC\\source\\repos\\QSITThirdTask\\QSITThirdTask\\QSITExternalCommand.cs",
+              "RelativeToolTip": "QSITThirdTask\\QSITExternalCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T03:18:47.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategorySelectionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\EL MAGIC\\source\\repos\\QSITThirdTask\\QSITThirdTask\\CategorySelectionFilter.cs",
+              "RelativeDocumentMoniker": "QSITThirdTask\\CategorySelectionFilter.cs",
+              "ToolTip": "C:\\Users\\EL MAGIC\\source\\repos\\QSITThirdTask\\QSITThirdTask\\CategorySelectionFilter.cs",
+              "RelativeToolTip": "QSITThirdTask\\CategorySelectionFilter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T02:56:20.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "QSITWindow.xaml",
               "DocumentMoniker": "C:\\Users\\EL MAGIC\\source\\repos\\QSITThirdTask\\QSITThirdTask\\View\\QSITWindow.xaml",
               "RelativeDocumentMoniker": "QSITThirdTask\\View\\QSITWindow.xaml",
               "ToolTip": "C:\\Users\\EL MAGIC\\source\\repos\\QSITThirdTask\\QSITThirdTask\\View\\QSITWindow.xaml",
               "RelativeToolTip": "QSITThirdTask\\View\\QSITWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-27T00:43:00.471Z",
+              "WhenOpened": "2025-04-27T02:33:33.635Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QsitViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\EL MAGIC\\source\\repos\\QSITThirdTask\\QSITThirdTask\\ViewModel\\QsitViewModel.cs",
+              "RelativeDocumentMoniker": "QSITThirdTask\\ViewModel\\QsitViewModel.cs",
+              "ToolTip": "C:\\Users\\EL MAGIC\\source\\repos\\QSITThirdTask\\QSITThirdTask\\ViewModel\\QsitViewModel.cs",
+              "RelativeToolTip": "QSITThirdTask\\ViewModel\\QsitViewModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAGgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T02:07:48.476Z",
+              "EditorCaption": ""
             }
           ]
         }

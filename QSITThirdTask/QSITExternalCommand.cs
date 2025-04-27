@@ -19,8 +19,9 @@ namespace QSITThirdTask
                 UIApplication uiapp = commandData.Application;
                 Document doc = uiapp.ActiveUIDocument.Document;
                 // Create and show the view model
-                QsitViewModel viewModel = new QsitViewModel(doc, uiapp);
                 QSITWindow mainWindow = new QSITWindow();
+                QsitViewModel viewModel = new QsitViewModel(doc, uiapp,mainWindow);
+                
                 mainWindow.DataContext = viewModel;
 
                 mainWindow.ShowDialog();
