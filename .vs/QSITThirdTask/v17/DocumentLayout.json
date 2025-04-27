@@ -1,12 +1,57 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\EL MAGIC\\source\\repos\\QSITThirdTask\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FD2BF8-0C30-426C-BB35-F080A44B7E34}|QSITThirdTask\\QSITThirdTask.csproj|c:\\users\\el magic\\source\\repos\\qsitthirdtask\\qsitthirdtask\\view\\qsitwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D4FD2BF8-0C30-426C-BB35-F080A44B7E34}|QSITThirdTask\\QSITThirdTask.csproj|solutionrelative:qsitthirdtask\\view\\qsitwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FD2BF8-0C30-426C-BB35-F080A44B7E34}|QSITThirdTask\\QSITThirdTask.csproj|c:\\users\\el magic\\source\\repos\\qsitthirdtask\\qsitthirdtask\\view\\qsitwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FD2BF8-0C30-426C-BB35-F080A44B7E34}|QSITThirdTask\\QSITThirdTask.csproj|solutionrelative:qsitthirdtask\\view\\qsitwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QSITWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\EL MAGIC\\source\\repos\\QSITThirdTask\\QSITThirdTask\\View\\QSITWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QSITThirdTask\\View\\QSITWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\EL MAGIC\\source\\repos\\QSITThirdTask\\QSITThirdTask\\View\\QSITWindow.xaml.cs",
+              "RelativeToolTip": "QSITThirdTask\\View\\QSITWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T01:44:35.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QSITWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\EL MAGIC\\source\\repos\\QSITThirdTask\\QSITThirdTask\\View\\QSITWindow.xaml",
+              "RelativeDocumentMoniker": "QSITThirdTask\\View\\QSITWindow.xaml",
+              "ToolTip": "C:\\Users\\EL MAGIC\\source\\repos\\QSITThirdTask\\QSITThirdTask\\View\\QSITWindow.xaml",
+              "RelativeToolTip": "QSITThirdTask\\View\\QSITWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T00:43:00.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

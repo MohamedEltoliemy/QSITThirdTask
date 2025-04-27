@@ -1,7 +1,11 @@
 ﻿using Autodesk.Revit.Attributes;
 using Autodesk.Revit.DB;
 using Autodesk.Revit.UI;
+using QSITThirdTask.View;
+using QSITThirdTask.ViewModel;
 using System;
+
+
 
 namespace QSITThirdTask
 {
@@ -10,7 +14,27 @@ namespace QSITThirdTask
     {
         public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
         {
-            throw new NotImplementedException();
+            try
+            {
+                UIApplication uiapp = commandData.Application;
+                Document doc = uiapp.ActiveUIDocument.Document;
+                // Create and show the view model
+                QsitViewModel viewModel = new QsitViewModel(doc, uiapp);
+                QSITWindow mainWindow = new QSITWindow();
+                mainWindow.DataContext = viewModel;
+
+                mainWindow.ShowDialog();
+
+                return Result.Succeeded;
+            }
+            catch (Exception ex)
+            {
+                TaskDialog.Show("Error", ex.Message);
+                throw new NotImplementedException();
+            }
         }
     }
 }
+        
+    
+
