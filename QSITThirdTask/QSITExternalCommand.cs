@@ -20,7 +20,7 @@ namespace QSITThirdTask
                 Document doc = uiapp.ActiveUIDocument.Document;
                 // Create and show the view model
                 QSITWindow mainWindow = new QSITWindow();
-                QsitViewModel viewModel = new QsitViewModel(doc, uiapp,mainWindow);
+                QsitViewModel viewModel = new QsitViewModel(uiapp, mainWindow);
                 
                 mainWindow.DataContext = viewModel;
 

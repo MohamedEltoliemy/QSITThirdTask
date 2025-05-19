@@ -1,47 +1,24 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Input;
 
-namespace QSITThirdTask.ViewModel
+public class RelayCommand : ICommand
 {
-    public class RelayCommand : ICommand
+    private readonly Action _execute;
+    private readonly Func<bool> _canExecute;
+
+    public RelayCommand(Action execute, Func<bool> canExecute = null)
     {
-        private readonly Action _execute;
-        private readonly Func<bool> _canExecute;
+        _execute = execute;
+        _canExecute = canExecute ?? (() => true);
+    }
 
-        public RelayCommand(Action execute) : this(execute, null)
-        {
-        }
+    public bool CanExecute(object parameter) => _canExecute();
 
-        public RelayCommand(Action execute, Func<bool> canExecute)
-        {
-            _execute = execute ?? throw new ArgumentNullException(nameof(execute));
-            _canExecute = canExecute;
-        }
+    public void Execute(object parameter) => _execute();
 
-        public event EventHandler CanExecuteChanged
-        {
-            add { CommandManager.RequerySuggested += value; }
-            remove { CommandManager.RequerySuggested -= value; }
-        }
-
-        public bool CanExecute(object parameter)
-        {
-            return _canExecute?.Invoke() ?? true;
-        }
-
-        public void Execute(object parameter)
-        {
-            _execute();
-        }
-
-        public void RaiseCanExecuteChanged()
-        {
-            CommandManager.InvalidateRequerySuggested();
-        }
-
+    public event EventHandler CanExecuteChanged
+    {
+        add { CommandManager.RequerySuggested += value; }
+        remove { CommandManager.RequerySuggested -= value; }
     }
 }
